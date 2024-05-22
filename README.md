@@ -1,16 +1,24 @@
-## Hi there 👋
+# Tarun Kumar Singh - Web Developer
 
-<!--
-**bbtarun/bbtarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Tarun Kumar Singh, a web developer currently learning the MERN stack. I have experience with the following technologies:
 
-Here are some ideas to get you started:
+* Programming Languages:
+    * JavaScript
+    * C
+    * C++
+* Frameworks/Libraries:
+    * Bootstrap
+    * HTML
+    * CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Live Project Stats (Automatically Updated)**
+
+*Number of Stars on GitHub's Most Recent Public Repository:* [REPLACE_WITH_STAR_COUNT]
+*Number of Forks on GitHub's Most Recent Public Repository:* [REPLACE_WITH_FORK_COUNT]
+
+**Let's Connect!**
+
+* [Your Portfolio Website](REPLACE_WITH_WEBSITE) (if applicable)
+* [Your LinkedIn Profile](REPLACE_WITH_LINKEDIN)
+
+**Feel free to reach out for any project discussions!**
